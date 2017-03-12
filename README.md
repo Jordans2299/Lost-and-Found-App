@@ -1,0 +1,2 @@
+# Lost-and-Found-App
+The idea behind this app is that if someone loses something then they can mark certain locations where they think the item might be located at. Other app users can then go searching at those locations marked if they find the item they can return it to the owner. If the owner receives the item they can verify the user that found the item. That user will then be awarded a certain amount of points depending on the value of the item. These points can then be translated into real money.
